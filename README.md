@@ -80,11 +80,10 @@ Tu sitio estará disponible en:
 ```
 https://<tu-usuario>.github.io/gh-deployment-workflow/
 ```
-```
-[Tu sitio se deberia tener una ruta parecida a esta:] (https://borizsam.github.io/gh-deploy-wrk/)
+Tu sitio se deberia tener una ruta parecida a esta:
 
 [https://borizsam.github.io/gh-deploy-wrk/](https://borizsam.github.io/gh-deploy-wrk/)
-```
+
 ---
 ✍️ Creado con **GitHub Actions** 🚀
 
