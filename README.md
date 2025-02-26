@@ -78,7 +78,12 @@ Esto activará el workflow y actualizará la página en **GitHub Pages**.
 ## 🌐 Ver el sitio desplegado
 Tu sitio estará disponible en:
 ```
-https://borizsam.github.io/gh-deploy-wrk/
+https://<tu-usuario>.github.io/gh-deployment-workflow/
+```
+```
+[Tu sitio se deberia tener una ruta parecida a esta:] (https://borizsam.github.io/gh-deploy-wrk/)
+
+[https://borizsam.github.io/gh-deploy-wrk/](https://borizsam.github.io/gh-deploy-wrk/)
 ```
 ---
 ✍️ Creado con **GitHub Actions** 🚀
