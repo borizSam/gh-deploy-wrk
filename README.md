@@ -62,7 +62,7 @@ jobs:
 ```
 
 Este workflow:
-1. Se activa solo si `index.html` cambia en la rama `main`.
+1. Se activa solo si `index.html` cambia en la rama `master`.
 2. Configura GitHub Pages.
 3. Sube el contenido y despliega la web.
 
@@ -71,7 +71,7 @@ Cada vez que edites `index.html`, ejecuta:
 ```bash
 git add index.html
 git commit -m "Actualización del sitio"
-git push origin main
+git push origin master
 ```
 Esto activará el workflow y actualizará la página en **GitHub Pages**.
 
